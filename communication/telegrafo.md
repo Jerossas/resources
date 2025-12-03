@@ -32,3 +32,5 @@ En 1804, **Francisco Salva**, fue el primero en oficialmente presentar el primer
 
 **Second report about galvanism as
 applied to telegraph** The name of the original paper
+
+**What hath God wrought** El primer mensaje enviado en código Morse. Que bendición :v 
