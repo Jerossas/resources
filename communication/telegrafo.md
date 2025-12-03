@@ -34,3 +34,5 @@ En 1804, **Francisco Salva**, fue el primero en oficialmente presentar el primer
 applied to telegraph** The name of the original paper
 
 **What hath God wrought** El primer mensaje enviado en código Morse. Que bendición :v 
+
+[Historia de las telecomunicaciones](https://es.wikipedia.org/wiki/Historia_de_las_telecomunicaciones)
