@@ -39,3 +39,6 @@ applied to telegraph** The name of the original paper
 
 
 Big big big discovery :V En el libro [**Memorias de La Real Academia de Ciencias Naturales y Artes de barcelona**](https://ia800900.us.archive.org/19/items/memoriasdelareal2118real/memoriasdelareal2118real.pdf) podemos encontrar la memoria **La Electricidad Aplicada a la Telegrafía**
+
+
+En la descripción del video [El primer telègraf - Va passar aquí | betevé](https://www.youtube.com/watch?v=FV4df5FDRW8) detallan sobre como la IEEE reconoce a Francisco como el primer creador del **Telégrafo Eléctrico**
