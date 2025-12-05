@@ -36,3 +36,6 @@ applied to telegraph** The name of the original paper
 **What hath God wrought** El primer mensaje enviado en código Morse. Que bendición :v 
 
 [Historia de las telecomunicaciones](https://es.wikipedia.org/wiki/Historia_de_las_telecomunicaciones)
+
+
+Big big big discovery :V En el libro [**Memorias de La Real Academia de Ciencias Naturales y Artes de barcelona**](https://ia800900.us.archive.org/19/items/memoriasdelareal2118real/memoriasdelareal2118real.pdf) podemos encontrar la memoria **La Electricidad Aplicada a la Telegrafía**
